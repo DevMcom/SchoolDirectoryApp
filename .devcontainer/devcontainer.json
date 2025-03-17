@@ -11,5 +11,10 @@
         "bradlc.vscode-tailwindcss"
       ]
     }
+  },
+  "features": {
+    "node": {
+      "version": "18.18.0"
+    }
   }
 }
